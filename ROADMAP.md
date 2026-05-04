@@ -5,6 +5,7 @@ This roadmap lists planned MiLAS Applied Tools.
 ## v0.1
 
 - 出力不安定性のMiLAS分類表 v0.1
+- AI状態診断プロンプト（MiLAS版）v0.1
 
 ## Next Candidates
 
