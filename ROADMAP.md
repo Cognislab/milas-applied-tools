@@ -6,13 +6,15 @@ This roadmap lists planned MiLAS Applied Tools.
 
 - 出力不安定性のMiLAS分類表 v0.1
 - AI状態診断プロンプト（MiLAS版）v0.1
+- NIM-Breaker v0.1
 
 ## Next Candidates
 
-1. Human-in-the-loop移行条件チェックリスト
+1. L3 Watchdog：制約リマインダ
 2. プロンプト／スキーマ／ツール権限の境界設計表
 3. AIエージェント設計レビュー表
 4. RAG崩れ診断表
+5. MiLAS Cognitive Load Monitor Lite
 
 ## Development Policy
 
