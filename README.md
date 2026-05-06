@@ -13,8 +13,11 @@ MiLASの概念を、実務上のチェックリストや分類表へ変換する
 
 ## Available Tools / 公開中のツール
 
+## Available Tools / 公開中のツール
+
 - [出力不安定性のMiLAS分類表 v0.1](tools/milas-output-instability-classification-v0.1.md)
 - [AI状態診断プロンプト（MiLAS版）v0.1](tools/milas-ai-state-check-prompt-v0.1.md)
+- [NIM-Breaker v0.1](tools/nim-breaker-v0.1.md)
 
 ## Planned Tools / 今後の候補
 
